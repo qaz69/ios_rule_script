@@ -45,6 +45,7 @@ payload:
   - DOMAIN-SUFFIX,jellyfin.xeton.dev
   - DOMAIN-SUFFIX,line.emby.men
   - DOMAIN-SUFFIX,mickeycloud.com
+  - DOMAIN-SUFFIX,misakaf.org
   - DOMAIN-SUFFIX,movie.xeton.dev
   - DOMAIN-SUFFIX,ntt1.jmsooo.com
   - DOMAIN-SUFFIX,ohhhh.org
@@ -56,6 +57,8 @@ payload:
   - DOMAIN-SUFFIX,servers.xeton.dev
   - DOMAIN-SUFFIX,xmsl.org
   - DOMAIN-KEYWORD,emby.wtf
+  - DOMAIN-KEYWORD,magpie
+  - DOMAIN-KEYWORD,misakaf
   - DOMAIN-KEYWORD,jmsooo
   - DOMAIN-KEYWORD,odysseyplus
   - PROCESS-NAME,com.mb.android
